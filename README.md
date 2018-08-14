@@ -34,3 +34,4 @@ for alpha in 0.361 0.297 0.244 0.200 0.164 0.134 0.110; do ./submitPuMixing.py -
 # Example plotting macros in macros/plotE.C, plotXY.C, etc...
 cd macros
 root plotE.C++# simpleBH1.cpp
+# SimpleBHhepcms.cpp
